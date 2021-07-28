@@ -104,3 +104,12 @@
   background: #66d7d7;
 }
 
+/* Helps wit the spacing of the logo */
+.logo-container{
+  width: 50px; 
+}
+/* controlling logo size */
+.nav-logo{
+  width: 50px;
+  height: 40px;
+}
